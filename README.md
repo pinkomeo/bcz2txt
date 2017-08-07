@@ -25,3 +25,5 @@ WORD_LIST_NAME = "word_done.txt"
 #生成的复习书是否随机排列，如果字母排列改成False
 
 IS_RANDOM = True
+
+![example](https://github.com/pinkomeo/bcz2txt/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170807170332.png)
